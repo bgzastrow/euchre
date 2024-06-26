@@ -1,0 +1,11 @@
+[project]
+name = "euchrepy"
+version = "0.1.0"
+description = "Package for playing the card game Euchre."
+readme = "README.md"
+authors = [
+    { name = "Benjamin Zastrow", email = "ben.g.zastrow@gmail.com" },
+]
+[build-system]
+requires = ["hatchling"]
+build-backend = ["hatchling.build"]
